@@ -1,0 +1,7 @@
+*.project	
+*.tar.gz
+*.tar
+*.gz
+software/
+vagrantconfig.yml
+*.box

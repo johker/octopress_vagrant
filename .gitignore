@@ -1,7 +1,4 @@
 *.project	
-*.tar.gz
-*.tar
-*.gz
-software/
+posts/
 vagrantconfig.yml
 *.box

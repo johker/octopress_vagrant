@@ -1,4 +1,3 @@
 *.project	
-posts/
 vagrantconfig.yml
 *.box

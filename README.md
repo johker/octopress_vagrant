@@ -1,4 +1,4 @@
 octopress_vagrant
 =================
 
-Octopress setup / Ubuntu 12.04 LTS
+Octopress setup / Ubuntu 14.04 LTS
